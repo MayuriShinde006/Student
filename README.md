@@ -1,4 +1,4 @@
 # Student
-This is my first git repository
+This is my first git repository...
 <br>
-student name (mayuri)
+student name (Mayuri)
